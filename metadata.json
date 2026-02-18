@@ -1,0 +1,7 @@
+{
+  "name": "SI MANDIRI - Modern Management System",
+  "description": "A comprehensive React-based port of the SI MANDIRI Koperasi & Project Management System, featuring financial tracking, membership databases, and project monitoring with a premium design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
